@@ -1,0 +1,9 @@
+# Discord
+discord.py==2.3.2
+
+# MongoDB (driver async)
+motor==3.3.2
+pymongo==4.6.1
+
+# Variáveis de ambiente
+python-dotenv==1.0.0
